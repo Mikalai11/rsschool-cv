@@ -1,0 +1,22 @@
+body {
+	background-color: #FFFAF0;
+    width: 1024px;
+    height: 100%;
+    Margin: 0 auto;
+}
+.text {
+    width: 950px;
+    height: 100%;
+    Margin: 0 auto;
+    float: left;
+}
+
+a {
+    font-style: italic;
+}
+
+img {
+    float: right;
+    height: 250px;
+    margin-left: 50px; 
+}
